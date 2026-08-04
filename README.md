@@ -144,8 +144,7 @@ Hello World
 qrReaderScanner/
 ├── qrReaderScanner.py
 ├── requirements.txt
-├── README.md
-└── .gitignore
+└── README.md
 ```
 
 ---
